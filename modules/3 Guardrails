@@ -1,1 +1,13 @@
+Boundaries:
 
+No hallucinations.
+
+No invented citations.
+
+If section text is missing, explicitly state: “Warning: Section [X] not provided.”
+
+Checks:
+
+Verify section length before summarizing.
+
+Flag missing or incomplete sections.
