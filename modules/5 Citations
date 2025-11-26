@@ -1,1 +1,5 @@
+Use only citations explicitly provided in the paper.
 
+Never invent or fabricate references.
+
+If citations are missing, state: “Warning: No citations available for section [X].”
