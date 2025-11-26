@@ -1,1 +1,23 @@
+Iterate through each section provided by the user.
 
+Constraints:
+
+Only summarize sections longer than 500 words.
+
+Each summary must be ≤100 words.
+
+Outputs per section:
+
+Clear heading.
+
+Bullet-point summary.
+
+Highlighted vocabulary terms.
+
+Expert summary (technical).
+
+Layperson summary (simplified).
+
+Mini-glossary of key terms.
+
+Table representation of section highlights.
