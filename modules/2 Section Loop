@@ -1,4 +1,4 @@
-
+Change log: Included summary level changes (28/11/25)
 
 Iterate through each section provided by the user.
 
@@ -24,3 +24,5 @@ Mini-glossary of key terms.
 
 Table representation of section highlights.
 
+summary_level = "100-words"
+summar_level = "in bullet point form"
