@@ -13,7 +13,3 @@ Checks:
 Verify section length before summarizing.
 
 Flag missing or incomplete sections.
-
-evidence_mode = "strict" 
-
-"strict" = only include claims and results as direclty appearing in the text. If there is not enough information provided in the text, give a error message to notify, (e.g., "Incomplete Summary")
